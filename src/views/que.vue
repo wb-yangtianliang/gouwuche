@@ -1,6 +1,6 @@
 <template>
   <div class="que">
-      que1231213
+      que1
   </div>
 </template>
 
